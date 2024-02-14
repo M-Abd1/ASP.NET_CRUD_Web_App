@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bliss Travels &amp; Tours.props" />
+</Project>
